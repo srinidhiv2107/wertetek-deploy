@@ -21,7 +21,7 @@ export function OverviewSection() {
           <ScrollReveal>
             <div className="relative aspect-video rounded-lg overflow-hidden shadow-2xl">
               <Image fill
-                src="/images/overview-section-image.jpg"
+                src="https://placehold.co/600x400.png" // /images/overview-section-image.jpg
                 alt="Wertetek Team Collaboration"
                 style={{objectFit: "cover"}}
                 className="rounded-lg"
