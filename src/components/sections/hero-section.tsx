@@ -32,9 +32,9 @@ export function HeroSection() {
             </div>
           </ScrollReveal>
           <ScrollReveal delay={200} className="hidden md:block">
-            <div className="relative aspect-square rounded-lg overflow-hidden shadow-2xl">
+            <div className="relative aspect-video rounded-lg overflow-hidden shadow-2xl">
                 <Image fill
-                    src="https://placehold.co/600x600.png"
+                    src="/images/hero-section-image.jpg"
                     alt="Innovative Technology Showcase"
                        style={{objectFit: "cover"}}
                     priority
